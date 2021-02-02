@@ -1,0 +1,14 @@
+Task 1 - DAO layer
+Create Spring JDBC based DAO for your application.
+
+
+Task 2 - Service Layer
+Create a service layer and implement business logic (add/remove entities to other entities and save them to DB, etc). A mentor can provide additional business rules.
+
+You should use Spring IoC.
+
+
+
+
+Task 3 - Exceptions and Logging
+Add custom exceptions and logging. Use slf4j + logback
